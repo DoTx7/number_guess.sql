@@ -1,5 +1,5 @@
 #!/bin/bash
-44
+444
 PSQL="psql --username=freecodecamp --dbname=number_guess -t --no-align -c"
 
 echo "Enter your username:"
